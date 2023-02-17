@@ -1,27 +1,82 @@
-# Minimal Mistakes remote theme starter
+# Title
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+## General
 
-Contains basic configuration to get you a site with:
+### Description
+This is a description of the product.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+### Sales Contact
+For sales inquiries, please contact sales@example.com.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+### Technical Contacts
+- Frontend: frontend@example.com
+- Backend: backend@example.com
+- External Systems: external@example.com
+- Infrastructure: infrastructure@example.com
 
----
+### Advantages
+#### Business
+- Increased productivity
+- Improved customer satisfaction
 
-## Troubleshooting
+#### Technical
+- Scalable
+- High performance
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+### Live demo
+[Link to live demo](https://example.com)
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Technical
+
+### Software Architecture
+This product uses a microservices architecture.
+
+### Infra. Architecture
+The infrastructure is built on Amazon Web Services (AWS).
+
+### Cloud Services used
+- AWS EC2
+- AWS S3
+
+### HowTo
+#### Use
+To use this product, simply sign up for an account at [example.com](https://example.com).
+
+#### Deploy
+To deploy this product, follow the instructions in the [deployment guide](https://example.com/deployment-guide).
+
+### Terraform resources & provider with versions
+- Terraform v0.15
+- AWS provider v3.0
+
+### Tests
+This product has been tested to ensure its stability and reliability.
+
+### Who is responsible for updating the product?
+The development team is responsible for updating the product.
+
+### Licence
+This product is licensed under the MIT License.
+
+## Sales
+
+### Example Scopes with costs incl.
+- Infra.: $1000/month
+- Licence: $500/month
+- PRODYNA: 2 weeks
+
+### Free init. workshop
+Sign up for a free initial workshop to learn more about the product.
+
+### Technologies used
+- AWS
+- Terraform
+
+### Keywords
+- Big Data
+- AI/ML
+- AWS
+
+### Success Stories & References
+- [Success Story 1](https://example.com/success-story-1)
+- [Success Story 2](https://example.com/success-story-2)
